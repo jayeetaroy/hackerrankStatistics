@@ -1,4 +1,5 @@
-# HackerRank Statistics Challenge
+# HackerRank Statistics Challenge 1
+
 Objective 
 In this challenge, we practice calculating the mean, median, and mode. Check out the Tutorial tab for learning materials and an instructional video!
 
